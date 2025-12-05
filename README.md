@@ -1,6 +1,8 @@
 ## Hey there!🫡
  I'm Epitaph7, a computer science student based in Germany.
+ 
  I create desktop applications and games.
+ 
  My main language is Java. I also use C# to build games with Unity.
 
 <!--
