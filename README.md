@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hey there!🫡
+## I'm Epitaph7, a computer science student based in Germany.
+## I create desktop applications and games.
+## My main language is Java. I also use C# to build games with Unity.
 
 <!--
 **Epitaph7/Epitaph7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
